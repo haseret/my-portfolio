@@ -1,0 +1,421 @@
+
+    html {
+       background-color: #1c1d25;
+    }
+    .porttopinn{
+        width: 90vw;
+        margin: auto;
+    }
+    .topnav{
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+        text-decoration: none;
+        padding: 0%;
+        font: normal poppins;
+    }
+    .topnav li{
+        list-style: none;
+    }
+    .topnav img{
+        height: 100px;
+        width: 100px;
+        left: 1000px;
+    }
+    .topnav li a{
+        text-decoration:none;
+        color:#fff;
+    }
+    .contacts{
+        position:absolute;
+        width:138px;
+        height:48px;
+        left: 800px;
+        top:16px;
+    }
+    
+    .p{
+        font-family:  normal  Poppins;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 32px;
+        letter-spacing: 0px;
+        text-align: left;
+    }
+    .terr{
+        position: absolute;
+        padding: 0;
+        top: 140px;
+        left: 550px;
+        width: 400px;
+        height: 250px;
+        margin-bottom: 50px;
+    }
+    .terr1{
+        position: absolute;
+        top: 10px;
+        left: 333px;
+        width: 86px;
+        height: 78px;
+        transform: matrix(0.30, 0.7, -0.7, 0.30, 0, 0);
+        border: 7px solid var(--unnamed-color-00ffff);
+         
+    }
+    .terr2{
+        position: absolute;
+        top: 171px;
+        left: 534px;
+        width: 64px;
+        height: 64px;
+        transform: matrix(-1, 0.07, -0.07, -1, 0, 0);
+        /* UI Properties */
+        border: 1px solid var(--unnamed-color-707070);
+    }
+    .terr3{
+        position: absolute;
+        top: 192px;
+        left: 1061px;
+        width: 85px;
+        height: 85px;
+        transform: matrix(-0.69, 0.72, -0.72, -0.69, 0, 0);
+        border: 1px solid var(--unnamed-color-707070);
+    }
+    .terr4{
+
+        position: absolute;
+        top: 463px;
+        left: 22px;
+        width: 95px;
+        height: 110px;
+        transform: matrix(-0.81, -0.59, 0.59, -0.81, 0, 0);
+        border: 7px solid var(--unnamed-color-ef4b3e);
+    }
+    .terr5{
+        position: absolute;
+        top: 200px;
+        left: 274px;
+        width: 83px;
+        height: 73px;
+        transform: matrix(0.33, 0.95, -0.95, 0.33, 0, 0);
+        border: 7px solid var(--unnamed-color-ffff00);
+    }
+    .terr6{
+        position: absolute;
+        top: 500px;
+        left: 488px;
+        width: 91px;
+        height: 78px;
+        transform: matrix(0.54, -0.84, 0.84, 0.54, 0, 0);
+        border: 7px solid var(--unnamed-color-00ffff);
+    }
+    .bont{
+        display: grid;
+        grid-template-columns: auto auto;
+        color: aliceblue;
+        width: 100%;
+    }
+    .bont1{
+        position: absolute;
+        font-size:  20px ;
+        left: 150px;
+        font: normal poppins;
+        font-weight: 100;
+        line-height: 50px;
+        letter-spacing:0px;
+        text-align: left;
+
+        
+    }
+    .bont2{
+        position: absolute;
+        width: 138px;
+        height: 555px;
+        font: normal poppins;
+        left: 736px;
+        top: 50px;
+       
+    }
+    .bad {
+        position: absolute;
+        top: 250px;
+        width: 210px;
+        height: 70px;
+        border-radius: 60px;
+        background: #ef4b3e;
+        border: #ef4b3e;
+     
+
+    }
+    .bad a{
+        text-decoration:none;
+        color:#fff;
+    }
+    .bad1{
+        position: absolute;
+        top: 250px;
+        left: 250px;
+        width: 210px;
+        height: 70px;
+        border-radius: 60px;
+        background: 0% 0% no-repeat padding-box;
+        border-color: #ef4b3e;
+    
+    }
+    .bad1 a{
+        text-decoration: none;
+       color: #fff;
+    }
+    html {
+        background-color: #1c1d25;
+     }
+     .bont2{
+        position: absolute;
+        top: 166px;
+        left: 135px;
+        width: 680px;
+        height: 149px;
+        font: normal poppins;
+        background:  0% 0% no-repeat padding-box;
+     }
+     .tell img{
+        position: absolute;
+        top: 300px;
+        left: 200px;
+        width: 100px;
+        height: 100px;
+     }
+    .tell h6{
+        position: relative;
+        top: 200px;
+        left: 300px;
+        width: 58px;
+        height: 35px;
+        text-align: left;
+        font: normal Poppins;
+        letter-spacing: 0px;
+        color: #F9FCFB;
+    }
+    .tell1 img{
+        position: absolute;
+        top: 450px;
+        left: 200px;
+        width: 100px;
+        height: 100px;
+    }
+     .tell1 h6{
+        position: absolute;
+        top: 490px;
+        left: 360px;
+        width: 58px;
+        height: 35px;
+       
+        font: normal Poppins;
+        letter-spacing: 0px;
+        color: #F9FCFB;
+    }
+    .tell2 img{
+        position: absolute;
+        top: 300px;
+        left: 800px;
+        width: 100px;
+        height: 100px;
+    }
+    .tell2 h6{
+        position:relative;
+        font: normal poppins;
+        top: 110px;
+        left: 320px;
+        width: 58px;
+        height: 35px;
+        text-align: left;
+        font: normal Poppins;
+        letter-spacing: 0px;
+        color: #F9FCFB;
+    }
+    .tell3 img{
+        position:absolute ;
+        top: 450px;
+        left: 800px;
+        width: 100px;
+        height: 100px;
+    }
+     .tell3 h6{
+        position:relative;
+        top: 270px;
+        left: 910px;
+        width: 58px;
+        height: 35px;
+        text-align: left;
+        font: normal Poppins;
+        letter-spacing: 0px;
+        color: #F9FCFB;
+    }
+    html{
+        background-color: #1c1d25; 
+    }
+     .bont3{
+        position: absolute;
+        top: 150px;
+        left: 250px;
+        width: 388px;
+        height: 35px;
+        line-height: 2px;
+     }
+   .te{
+        position: absolute;
+        top: 150px;
+        overflow-y: scroll;
+        left: 600px;
+        width: 500px;
+        height: 400px;
+  
+   }
+  .contact h2{
+    top: 100px;
+    font-size: 3rem;
+    text-align: center;
+    color: #fff;
+    font: normal poppins;
+    padding-bottom: 1rem;
+  }
+  .contact1  img{
+    position: absolute;
+    top: 250px;
+    margin-left: 250px;
+    width: 700px;
+    height: 350px;
+    margin-bottom: 133px;
+    mix-blend-mode:soft-light ;
+  }
+   .contact1 h5{
+    position: absolute;
+    top: 280px;
+    margin-left: 300px;
+    width: 100px;
+    height: 100px;
+    text-align: right;
+    font: normal Poppins;
+    letter-spacing: 0px;
+    color: #08FDA3;
+  }
+  .input1{
+    position: relative;
+    top: 50px;
+    left:330px;
+    height: 30px;
+    width: 200px;
+  }
+  .contact2 h5{
+    top: 280px;
+    margin-left: 700px;
+    width: 132px;
+    height: 35px;
+    text-align: left;
+    font: normal Poppins;
+    letter-spacing: 0px;
+    color: #08FDA3;
+    opacity: 1;
+  }
+  .input2{
+    position: relative;
+    top: 20px;
+    left:650px;
+    height: 30px;
+    width: 200px;
+  }
+ .contact3 h5{
+    top: 350px;
+    margin-left: 280px;
+    width: 100px;
+    height: 100px;
+    text-align: right;
+    font: normal Poppins;
+    letter-spacing: 0px;
+    color: #08FDA3;
+ }
+ .input3{
+    position: relative;
+    top: 50px;
+    left:350px;
+    height: 30px;
+    width: 200px;
+  }
+ .contact4 h5{
+    top: 420px;
+    margin-left: 345px;
+    width: 152px;
+    height: 33px;
+    text-align: left;
+    font: normal  poppins;
+    letter-spacing: 0px;
+    color: #08FDA3;
+ }
+ .input4{
+    position: relative;
+    top: 90px;
+    left:350px;
+    height: 30px;
+    width: 200px;
+  }
+ .contact5 h5{
+    position: absolute;
+    top: 520px;
+    margin-left: 500px;
+    width: 130px;
+    height: 30px;
+    text-align:center;
+    font: normal poppins;
+    border: 1px solid #FFFFFF;
+    border-radius: 89px;
+    color: #FFFFFF;
+ }
+ .li{
+    line-height: normal;
+ }
+ .icons img{
+    position: absolute;
+    left: 1190px;
+    top: 300px;
+    height: 20px;
+    width: 20px;
+
+ }
+ .icons1 img{
+    position: absolute;
+    left: 1190px;
+    top: 350px;
+    height: 20px;
+    width: 20px;
+
+ }
+ .icons2 img{
+    position: absolute;
+    left: 1190px;
+    top: 400px;
+    height: 20px;
+    width: 20px;
+
+ }
+ .icons3 img{
+    position: absolute;
+    left: 1190px;
+    top: 450px;
+    height: 20px;
+    width: 20px;
+
+ }
+ .icons4 img{
+    position: absolute;
+    left: 1190px;
+    top: 500px;
+    height: 20px;
+    width: 20px;
+
+ }
+
+
+
+
+ 
+  
